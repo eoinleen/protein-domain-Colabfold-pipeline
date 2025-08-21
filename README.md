@@ -336,7 +336,7 @@ head -2 all_colabfold_multimer_inputs.fasta
 
 ## 📧 Contact
 
-[Your contact information]
+e.leen@leeds.ac.uk
 
 ## 📄 License
 
