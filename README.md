@@ -43,7 +43,7 @@ python domain_extractor.py
 python af2_multimer_prep_type2_local.py
 
 # 4. Run structure predictions with LocalColabFold
-colabfold_batch all_colabfold_multimer_inputs.fasta output_predictions/
+--> https://github.com/YoshitakaMo/localcolabfold
 ```
 
 ## 📖 Detailed Script Documentation
