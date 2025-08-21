@@ -20,7 +20,7 @@
 # =================================================
 
 # ===== SETTINGS - EDIT THESE =====
-PDB_DIRECTORY = "/mnt/scratch/fbselee/czn/domain-grafting/distal/domain-grafting/20250704_4/MPNN/designs/all_extracted_pdb"  # Update this path
+PDB_DIRECTORY = "../all_extracted_pdb"  # Update this path
 CHAIN_ID = "A"
 # ================================
 
