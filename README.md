@@ -220,13 +220,7 @@ all_colabfold_multimer_inputs.fasta  ← Ready for prediction
 ### Step 4: Structure Prediction
 ```bash
 # Run LocalColabFold predictions
-colabfold_batch all_colabfold_multimer_inputs.fasta structure_predictions/
-
-# Or process individually:
-for fasta in colabfold_multimer_inputs/*.fasta; do
-    name=$(basename "$fasta" .fasta)
-    colabfold_batch "$fasta" "predictions_$name/"
-done
+--> https://github.com/YoshitakaMo/localcolabfold
 ```
 
 ## ⚙️ Configuration Guide
